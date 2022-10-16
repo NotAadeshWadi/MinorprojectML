@@ -1,7 +1,7 @@
 streamlit==1.13.0
 datetime
-NumPy
-Cython
+numpy==1.20.1
+cython==3.0.0a11
 yfinance==0.1.75
 pystan==2.19.1.1
 fbprophet==0.7.1
